@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "demiurg.system-meters",
+  "name": "System meters",
+  "version": "1.0.1",
+  "author": "demiurg",
+  "description": "CPU, memory, swap and mounted filesystem usage with a detailed system panel",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Meters.qml"
+  },
+  "barWidget": {
+    "displayName": "System meters",
+    "description": "CPU, RAM, swap and mounted filesystem usage",
+    "category": "System",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  },
+  "license": "MIT"
+}
