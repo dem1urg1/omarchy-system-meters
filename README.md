@@ -2,6 +2,10 @@
 
 A compact CPU, RAM and disk widget with a detailed system panel for Omarchy Quattro.
 
+<p align="center">
+  <img src="preview.png" alt="System Meters in the top bar with the CPU, memory, swap and filesystem panel open" width="480">
+</p>
+
 ## Features
 
 - CPU, RAM and system filesystem usage in the bar.
